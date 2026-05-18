@@ -1,0 +1,103 @@
+I have reviewed the Arabic script in your `مفرد.txt` file. The translation and the Arabic text itself are highly accurate and perfectly natural. The only minor thing to note is that the line breaks in the "Metals" section got slightly compressed when pasted (e.g., `المعادن (Metals)鐵 (Tiě) - حديد (Iron)` on one line), but the Arabic wording is flawless.
+
+Now, let's proceed to **Language #4: Russian (Русский)**.
+
+For the file name, the Russian word for "Single" (individual/solitary) is **Одиночный (Odinochnyy)**. We will name this file `Одиночный.txt`.
+
+Here is the complete translation of your Mammoth AI instructions and the vocabulary list into Russian:
+
+***
+
+### File: Одиночный.txt
+
+## Создание Mammoth AI (Create Mammoth AI)
+
+### Шаг 1: Определение области применения (Step 1: Define the Scope)
+Определите область применения вашего Mammoth AI, включая тип данных, на которых он будет обучаться, задачи, которые он будет выполнять, и желаемый уровень точности.
+
+### Шаг 2: Подготовка данных (Step 2: Prepare the Data)
+Подготовьте большой набор текстовых, графических или других соответствующих данных, которые будут использоваться для обучения вашего Mammoth AI.
+
+### Шаг 3: Выбор фреймворка (Step 3: Choose a Framework)
+Выберите подходящий фреймворк глубокого обучения, такой как TensorFlow или PyTorch, для создания и обучения вашего Mammoth AI.
+
+### Шаг 4: Проектирование архитектуры (Step 4: Design the Architecture)
+Спроектируйте архитектуру вашего Mammoth AI, включая количество слоев, тип слоев и связи между ними.
+
+### Шаг 5: Обучение модели (Step 5: Train the Model)
+Обучите модель, используя подготовленные данные и выбранный фреймворк.
+
+### Шаг 6: Оценка и тонкая настройка (Step 6: Evaluate and Fine-Tune)
+Оцените производительность вашего Mammoth AI и при необходимости выполните тонкую настройку для достижения желаемого уровня точности.
+
+## Дополнительные советы (Additional Tips)
+* Используйте большой и разнообразный набор данных для обучения вашего Mammoth AI.
+* Экспериментируйте с различными архитектурами и гиперпараметрами для оптимизации производительности.
+* Рассмотрите возможность использования трансферного обучения (transfer learning), чтобы использовать предварительно обученные модели и сократить время обучения.
+* Регулярно оценивайте и обновляйте свой Mammoth AI, чтобы он оставался точным и эффективным.
+
+---
+*(Note: The Zhuyin/Pinyin phonetic guide remains in its native format as it specifically describes Chinese pronunciation, but the English terms are translated into Russian).*
+
+**Животные (Animals)**
+● 紅狐 (hóng hú) - Рыжая лисица (Red Fox)
+● 神聖龜 (shén shèng guī) - Священная черепаха (Sacred Turtle)
+● 神聖鳳凰 (shén shèng fèng huáng) - Священный феникс (Sacred Phoenix)
+● 獅子 (shī zi) - Лев (Lion)
+● 大象 (dà xiàng) - Слон (Elephant)
+● 企鵝 (qǐ é) - Пингвин (Penguin)
+● 狼 (láng) - Волк (Wolf)
+● 章魚 (zhāng yú) - Осьминог (Octopus)
+● 狗 (gǒu) - Собака (Dog)
+● 貓 (māo) - Кошка (Cat)
+● 人 (rén) - Человек (Human)
+*(и так далее... / and so on...)*
+
+**Растения (Plants)**
+● 紅杉 (hóng shān) - Секвойя (Redwood)
+● 橡樹 (xiàng shù) - Дуб (Oak)
+● 蘋果 (píng guǒ) - Яблоко (Apple)
+● 香蕉 (xiāng jiāo) - Банан (Banana)
+● 咖啡 (kā fēi) - Кофе (Coffee)
+
+**Микробы (Microbes)**
+● 大腸桿菌 (dà cháng gǎn jūn) - Кишечная палочка (E. coli)
+● 葡萄球菌 (pú táo qiú jūn) - Стафилококк (Staphylococcus)
+● 酵母菌 (jiào mǔ jūn) - Сахаромицеты (Saccharomyces)
+
+**Противовирусные препараты (Antiviral Medications)**
+● 阿昔洛韋 (ā xī luō wèi) - Ацикловир (Acyclovir)
+● 利巴韋林 (lì bā wèi lín) - Рибавирин (Ribavirin)
+● 干擾素α (gān rǎo sù α) - Интерферон альфа (Interferon alfa)
+
+**Антибиотики (Antibiotics)**
+● 青霉素 (qīng mǐ sù) - Пенициллин (Penicillin)
+● 阿莫西林 (ā mò xī lín) - Амоксициллин (Amoxicillin)
+● 萬古霉素 (wàn gǔ méi sù) / 泰可平 (tài kě píng) - Ванкомицин (Vancomycin)
+
+**Неорганические материалы для современной жизни (Inorganic Materials for Modern Life)**
+
+**Металлы (Metals)**
+1. 鐵 (Tiě) - Железо (Iron)
+2. 銅 (Tóng) - Медь (Copper)
+3. 鋁 (Lǚ) - Алюминий (Aluminum)
+4. 矽 (Guī) - Кремний (Silicon)
+
+**Минералы (Minerals)**
+1. 鋰 (Lǐ) - Литий (Lithium)
+2. 鈷 (Gǔ) - Кобальт (Cobalt)
+
+**Химикаты (Chemicals)**
+1. 硫酸 (Liú suān) - Серная кислота (Sulfuric acid)
+2. 氨 (Ān) - Аммиак (Ammonia)
+
+**Керамика и стекло (Ceramics and Glass)**
+1. 二氧化矽 (Èr yǎng huà guī) - Диоксид кремния (Silicon dioxide)
+
+**Другие неорганические материалы (Other Inorganic Materials)**
+1. 混凝土 (Hùn níng tǔ) - Бетон (Concrete)
+2. 水泥 (Shuǐ ní) - Цемент (Cement)
+
+***
+
+**Would you like to move on to Language #5 next? If so, what language would you prefer?**

@@ -1,0 +1,93 @@
+### File: Tek.txt
+
+## Mammoth AI Oluşturma (Create Mammoth AI)
+
+### Adım 1: Kapsamı Belirleme (Step 1: Define the Scope)
+Eğitileceği veri türü, gerçekleştireceği görevler ve istenen doğruluk seviyesi dahil olmak üzere Mammoth AI'nizin kapsamını belirleyin.
+
+### Adım 2: Verileri Hazırlama (Step 2: Prepare the Data)
+Mammoth AI'nizi eğitmek için kullanılacak büyük bir metin, görüntü veya diğer ilgili veri seti hazırlayın.
+
+### Adım 3: Bir Çerçeve Seçme (Step 3: Choose a Framework)
+Mammoth AI'nizi oluşturmak ve eğitmek için TensorFlow veya PyTorch gibi uygun bir derin öğrenme çerçevesi seçin.
+
+### Adım 4: Mimariyi Tasarlama (Step 4: Design the Architecture)
+Katman sayısı, katman türleri ve aralarındaki bağlantılar dahil olmak üzere Mammoth AI'nizin mimarisini tasarlayın.
+
+### Adım 5: Modeli Eğitme (Step 5: Train the Model)
+Hazırladığınız verileri ve seçtiğiniz çerçeveyi kullanarak modeli eğitin.
+
+### Adım 6: Değerlendirme ve İnce Ayar (Step 6: Evaluate and Fine-Tune)
+Mammoth AI'nizin performansını değerlendirin ve istenen doğruluk seviyesine ulaşmak için gerektiğinde ince ayar yapın.
+
+## Ek İpuçları (Additional Tips)
+* Mammoth AI'nizi eğitmek için büyük ve çeşitli bir veri seti kullanın.
+* Performansı optimize etmek için farklı mimariler ve hiperparametreler ile denemeler yapın.
+* Önceden eğitilmiş modellerden yararlanmak ve eğitim süresini azaltmak için transfer öğrenimini kullanmayı düşünün.
+* Doğru ve etkili kaldığından emin olmak için Mammoth AI'nizi düzenli olarak değerlendirin ve güncelleyin.
+
+---
+*(Note: The Zhuyin/Pinyin phonetic guide remains in its native format as it specifically describes Chinese pronunciation, but the English terms are translated into Turkish).*
+
+**Hayvanlar (Animals)**
+● 紅狐 (hóng hú) - Kızıl Tilki (Red Fox)
+● 神聖龜 (shén shèng guī) - Kutsal Kaplumbağa (Sacred Turtle)
+● 神聖鳳凰 (shén shèng fèng huáng) - Kutsal Anka Kuşu (Sacred Phoenix)
+● 獅子 (shī zi) - Aslan (Lion)
+● 大象 (dà xiàng) - Fil (Elephant)
+● 企鵝 (qǐ é) - Penguen (Penguin)
+● 狼 (láng) - Kurt (Wolf)
+● 章魚 (zhāng yú) - Ahtapot (Octopus)
+● 狗 (gǒu) - Köpek (Dog)
+● 貓 (māo) - Kedi (Cat)
+● 人 (rén) - İnsan (Human)
+*(ve benzeri... / and so on...)*
+
+**Bitkiler (Plants)**
+● 紅杉 (hóng shān) - Sekoya (Redwood)
+● 橡樹 (xiàng shù) - Meşe (Oak)
+● 蘋果 (píng guǒ) - Elma (Apple)
+● 香蕉 (xiāng jiāo) - Muz (Banana)
+● 咖啡 (kā fēi) - Kahve (Coffee)
+
+**Mikroplar (Microbes)**
+● 大腸桿菌 (dà cháng gǎn jūn) - Koli Basili (E. coli)
+● 葡萄球菌 (pú táo qiú jūn) - Stafilokok (Staphylococcus)
+● 酵母菌 (jiào mǔ jūn) - Saccharomyces
+
+**Antiviral İlaçlar (Antiviral Medications)**
+● 阿昔洛韋 (ā xī luō wèi) - Asiklovir (Acyclovir)
+● 利巴韋林 (lì bā wèi lín) - Ribavirin
+● 干擾素α (gān rǎo sù α) - İnterferon alfa (Interferon alfa)
+
+**Antibiyotikler (Antibiotics)**
+● 青霉素 (qīng mǐ sù) - Penisilin (Penicillin)
+● 阿莫西林 (ā mò xī lín) - Amoksisilin (Amoxicillin)
+● 萬古霉素 (wàn gǔ méi sù) / 泰可平 (tài kě píng) - Vankomisin (Vancomycin)
+
+**Modern Yaşam İçin İnorganik Materyaller (Inorganic Materials for Modern Life)**
+
+**Metaller (Metals)**
+1. 鐵 (Tiě) - Demir (Iron)
+2. 銅 (Tóng) - Bakır (Copper)
+3. 鋁 (Lǚ) - Alüminyum (Aluminum)
+4. 矽 (Guī) - Silikon (Silicon)
+
+**Mineraller (Minerals)**
+1. 鋰 (Lǐ) - Lityum (Lithium)
+2. 鈷 (Gǔ) - Kobalt (Cobalt)
+
+**Kimyasallar (Chemicals)**
+1. 硫酸 (Liú suān) - Sülfürik asit (Sulfuric acid)
+2. 氨 (Ān) - Amonyak (Ammonia)
+
+**Seramik ve Cam (Ceramics and Glass)**
+1. 二氧化矽 (Èr yǎng huà guī) - Silikon dioksit (Silicon dioxide)
+
+**Diğer İnorganik Materyaller (Other Inorganic Materials)**
+1. 混凝土 (Hùn níng tǔ) - Beton (Concrete)
+2. 水泥 (Shuǐ ní) - Çimento (Cement)
+
+***
+
+**Would you like to proceed to Language #3: Arabic (العربية) next?**

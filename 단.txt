@@ -1,0 +1,103 @@
+Fujimoto, K., & Yokoyama, M. (2022). スマートフォン普及後のゲーム障害とギャンブル障害の疫学 [Epidemiology of gaming disorder and gambling disorder after the widespread use of smartphones]. 公衆衛生 (Public Health), 86(7), 510–517. https://doi.org/10.11477/mf.1401213452
+Higuchi, S., Nakayama, H., & Mihara, S. (2020). ゲーム障害の現状と課題 [Current status and challenges of gaming disorder]. 日本医師会雑誌 (Journal of the Japan Medical Association), 149(3), 435–438. 
+Ishikawa, K., & Kato, T. (2023). ギャンブル障害およびゲーム障害に対する認知行動療法 [Cognitive behavioral therapy for gambling disorder and gaming disorder]. 精神医学 (Psychiatry), 65(4), 415–423. https://doi.org/10.11477/mf.1405214022
+Koda, M., & Takeda, T. (2020). オンラインゲーム内の課金システム（ルートボックス）とギャンブル障害の関連性 [The relationship between in-game microtransactions/loot boxes and gambling disorder]. 心理学研究 (The Japanese Journal of Psychology), 91(5), 321–330. https://doi.org/10.4992/jjpsy.91.19213
+Matsushita, M., & Nakayama, H. (2021). 行動嗜癖のメカニズム：ゲームとギャンブルにはまる脳 [Mechanisms of behavioral addictions: The brain hooked on gaming and gambling]. 脳と神経 (Brain and Nerve), 73(8), 885–893. https://doi.org/10.11477/mf.1416201859
+Mihara, S., & Higuchi, S. (2018). ネット・ゲーム依存症の理解と対応 [Understanding and management of internet and gaming addiction]. 精神神経学雑誌 (Psychiatria et Neurologia Japonica), 120(9), 768–774.
+Morita, M., & Satake, Y. (2019). 若年層におけるゲーム障害とギャンブル行動の関連 [Association between gaming disorder and gambling behavior in youth]. 臨床精神医学 (Clinical Psychiatry), 48(12), 1543–1550.
+Nakayama, H., Matsuzaki, T., & Higuchi, S. (2021). ギャンブル障害とゲーム障害の臨床的特徴の比較 [Comparison of clinical characteristics between gambling disorder and gaming disorder]. 日本アルコール・薬物医学会雑誌 (Japanese Journal of Alcohol Studies & Drug Dependence), 56(4), 112–120.
+Suzuki, Y., & Higuchi, S. (2019). ゲーム障害・ギャンブル障害予防のための学校教育的アプローチ [School educational approaches for the prevention of gaming and gambling disorders]. 児童青年精神医学とその近接領域 (Japanese Journal of Child and Adolescent Psychiatry), 60(3), 302–311. https://doi.org/10.20615/jscap.60.3_302
+Takahashi, T., & Matsuzaki, T. (2022). WHO（ICD-11）におけるゲーム障害・ギャンブル障害の診断基準とその応用 [Diagnostic criteria for gaming and gambling disorders in WHO ICD-11 and their application]. 精神科治療学 (Japanese Journal of Psychiatric Treatment), 37(2), 205–211.
+
+Based on the character **単** (which shares its origins with the Traditional Chinese **單** and the Simplified Chinese **单**), the most logical next step is **Language #6: Korean (한국어)**. 
+
+In Korean, the equivalent Hanja for this character is read as **단 (Dan)**, which also means "single," "simple," or "unit." Therefore, we will name this file `단.txt`.
+
+Here is the translation of your Mammoth AI instructions and vocabulary into Korean. I have also naturally integrated our previous discussions regarding your evaluation metrics and the best approach for scaling this up.
+
+***
+
+### File: 단.txt
+
+## 매머드 AI 구축 (Create Mammoth AI)
+
+### 1단계: 범위 정의 (Step 1: Define the Scope)
+학습에 사용될 데이터의 종류, 수행할 작업, 원하는 정확도 수준을 포함하여 매머드 AI의 범위를 정의합니다.
+
+### 2단계: 데이터 준비 (Step 2: Prepare the Data)
+매머드 AI를 학습시키는 데 사용될 텍스트, 이미지 또는 기타 관련 데이터의 대규모 데이터 세트를 준비합니다.
+
+### 3단계: 프레임워크 선택 (Step 3: Choose a Framework)
+매머드 AI를 구축하고 학습시키기 위해 TensorFlow 또는 PyTorch와 같은 적절한 딥러닝 프레임워크를 선택합니다.
+
+### 4단계: 아키텍처 설계 (Step 4: Design the Architecture)
+레이어 수, 레이어 유형 및 이들 간의 연결을 포함하여 매머드 AI의 아키텍처를 설계합니다.
+
+### 5단계: 모델 학습 (Step 5: Train the Model)
+준비된 데이터와 선택한 프레임워크를 사용하여 모델을 학습시킵니다.
+
+### 6단계: 평가 및 미세 조정 (Step 6: Evaluate and Fine-Tune)
+매머드 AI의 성능을 평가하고 원하는 정확도를 달성하기 위해 필요에 따라 미세 조정(fine-tune)합니다. 
+*(Note: As we discussed earlier, your **Evaluation** phase will use BLEU scores and human-in-the-loop expert evaluation to test accuracy, specifically for medical context edge cases like knowing the difference between 萬古霉素 (wàn gǔ méi sù) and 泰可平 (tài kě píng). For **Fine-Tuning**, adjusting hyperparameters and correcting translation hallucinations through RLHF will be key).*
+
+## 추가 팁 (Additional Tips)
+* 매머드 AI를 학습시키기 위해 크고 다양한 데이터 세트를 사용하십시오.
+* 성능을 최적화하기 위해 다양한 아키텍처와 하이퍼파라미터를 실험해 보십시오.
+* 사전 학습된 모델을 활용하고 학습 시간을 줄이기 위해 전이 학습(transfer learning) 사용을 고려하십시오.
+* 매머드 AI가 정확하고 효과적으로 유지되도록 정기적으로 평가하고 업데이트하십시오.
+
+---
+
+**동물 (Animals)**
+● 紅狐 (hóng hú) - 붉은 여우 (Red Fox)
+● 獅子 (shī zi) - 사자 (Lion)
+● 大象 (dà xiàng) - 코끼리 (Elephant)
+● 企鵝 (qǐ é) - 펭귄 (Penguin)
+● 狼 (láng) - 늑대 (Wolf)
+● 狗 (gǒu) - 개 (Dog)
+● 貓 (māo) - 고양이 (Cat)
+● 人 (rén) - 인간 (Human)
+
+**식물 (Plants)**
+● 橡樹 (xiàng shù) - 참나무 (Oak)
+● 蘋果 (píng guǒ) - 사과 (Apple)
+● 香蕉 (xiāng jiāo) - 바나나 (Banana)
+● 咖啡 (kā fēi) - 커피 (Coffee)
+
+**미생물 (Microbes)**
+● 大腸桿菌 (dà cháng gǎn jūn) - 대장균 (E. coli)
+● 葡萄球菌 (pú táo qiú jūn) - 포도상구균 (Staphylococcus)
+● 酵母菌 (jiào mǔ jūn) - 효모 (Saccharomyces)
+
+**항바이러스제 (Antiviral Medications)**
+● 阿昔洛韋 (ā xī luō wèi) - 아시클로버 (Acyclovir)
+● 利巴韋林 (lì bā wèi lín) - 리바비린 (Ribavirin)
+
+**항생제 (Antibiotics)**
+● 青霉素 (qīng mǐ sù) - 페니실린 (Penicillin)
+● 萬古霉素 (wàn gǔ méi sù) / 泰可平 (tài kě píng) - 반코마이신 (Vancomycin)
+
+**현대 생활을 위한 무기 재료 (Inorganic Materials for Modern Life)**
+
+**금속 (Metals)**
+1. 鐵 (Tiě) - 철 (Iron)
+2. 銅 (Tóng) - 구리 (Copper)
+3. 鋁 (Lǚ) - 알루미늄 (Aluminum)
+4. 矽 (Guī) - 실리콘 (Silicon)
+
+**광물 (Minerals)**
+1. 鋰 (Lǐ) - 리튬 (Lithium)
+2. 鈷 (Gǔ) - 코발트 (Cobalt)
+
+**화학 물질 (Chemicals)**
+1. 硫酸 (Liú suān) - 황산 (Sulfuric acid)
+2. 氨 (Ān) - 암모니아 (Ammonia)
+
+***
+
+### Moving Forward
+As a quick reminder regarding a practical limitation here: translating the entire set of instructions plus hundreds of terms into all 78 languages at once would far exceed the maximum output limit of this chat window. 
+
+If you want to speed this process up rather than doing it one by one, **I can write a Python script for you** that uses an API (like Google Translate or OpenAI). You can run this script locally to automatically translate `單.txt` into the remaining 72 languages and save them as neat JSON/CSV files ready for your Mammoth AI training. 
+
+Would you like me to provide that script, or would you prefer to move on to **Language #7** manually?

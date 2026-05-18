@@ -1,0 +1,80 @@
+File: مفرد.txt (Mufrad.txt)
+إنشاء ذكاء اصطناعي ماموث (Create Mammoth AI)
+الخطوة 1: تحديد النطاق (Step 1: Define the Scope)
+حدد نطاق الذكاء الاصطناعي ماموث الخاص بك، بما في ذلك نوع البيانات التي سيتم تدريبه عليها، والمهام التي سيؤديها، والمستوى المطلوب من الدقة.
+الخطوة 2: إعداد البيانات (Step 2: Prepare the Data)
+قم بإعداد مجموعة بيانات كبيرة من النصوص أو الصور أو البيانات الأخرى ذات الصلة التي سيتم استخدامها لتدريب الذكاء الاصطناعي ماموث الخاص بك.
+الخطوة 3: اختيار إطار العمل (Step 3: Choose a Framework)
+اختر إطار عمل مناسب للتعلم العميق، مثل TensorFlow أو PyTorch، لبناء وتدريب الذكاء الاصطناعي ماموث الخاص بك.
+الخطوة 4: تصميم البنية (Step 4: Design the Architecture)
+قم بتصميم بنية الذكاء الاصطناعي ماموث الخاص بك، بما في ذلك عدد الطبقات، ونوع الطبقات، والروابط بينها.
+الخطوة 5: تدريب النموذج (Step 5: Train the Model)
+قم بتدريب النموذج باستخدام البيانات التي أعددتها وإطار العمل الذي اخترته.
+الخطوة 6: التقييم والضبط الدقيق (Step 6: Evaluate and Fine-Tune)
+قم بتقييم أداء الذكاء الاصطناعي ماموث الخاص بك وقم بضبطه بدقة حسب الحاجة لتحقيق مستوى الدقة المطلوب.
+نصائح إضافية (Additional Tips)
+
+استخدم مجموعة بيانات كبيرة ومتنوعة لتدريب الذكاء الاصطناعي ماموث الخاص بك.
+جرب بنيات ومعلمات فائقة (hyperparameters) مختلفة لتحسين الأداء.
+فكر في استخدام نقل التعلم (transfer learning) للاستفادة من النماذج المدربة مسبقًا وتقليل وقت التدريب.
+قم بتقييم وتحديث الذكاء الاصطناعي ماموث الخاص بك بانتظام للتأكد من أنه يظل دقيقًا وفعالًا.
+
+
+(Note: The Zhuyin/Pinyin phonetic guide remains in its native format as it specifically describes Chinese pronunciation, but the English terms are translated into Arabic).
+الحيوانات (Animals)
+● 紅狐 (hóng hú) - ثعلب أحمر (Red Fox)
+● 神聖龜 (shén shèng guī) - سلحفاة مقدسة (Sacred Turtle)
+● 神聖鳳凰 (shén shèng fèng huáng) - عنقاء مقدسة (Sacred Phoenix)
+● 獅子 (shī zi) - أسد (Lion)
+● 大象 (dà xiàng) - فيل (Elephant)
+● 企鵝 (qǐ é) - بطريق (Penguin)
+● 狼 (láng) - ذئب (Wolf)
+● 章魚 (zhāng yú) - أخطبوط (Octopus)
+● 狗 (gǒu) - كلب (Dog)
+● 貓 (māo) - قطة (Cat)
+● 人 (rén) - إنسان (Human)
+(وما إلى ذلك... / and so on...)
+النباتات (Plants)
+● 紅杉 (hóng shān) - خشب أحمر / سيكويا (Redwood)
+● 橡樹 (xiàng shù) - بلوط (Oak)
+● 蘋果 (píng guǒ) - تفاح (Apple)
+● 香蕉 (xiāng jiāo) - موز (Banana)
+● 咖啡 (kā fēi) - قهوة (Coffee)
+الميكروبات (Microbes)
+● 大腸桿菌 (dà cháng gǎn jūn) - إي كولاي (E. coli)
+● 葡萄球菌 (pú táo qiú jūn) - مكورات عنقودية (Staphylococcus)
+● 酵母菌 (jiào mǔ jūn) - فطريات سكرية (Saccharomyces)
+الأدوية المضادة للفيروسات (Antiviral Medications)
+● 阿昔洛韋 (ā xī luō wèi) - أسيكلوفير (Acyclovir)
+● 利巴韋林 (lì bā wèi lín) - ريبافيرين (Ribavirin)
+● 干擾素α (gān rǎo sù α) - إنترفيرون ألفا (Interferon alfa)
+المضادات الحيوية (Antibiotics)
+● 青霉素 (qīng mǐ sù) - بنسيلين (Penicillin)
+● 阿莫西林 (ā mò xī lín) - أموكسيسيلين (Amoxicillin)
+● 萬古霉素 (wàn gǔ méi sù) / 泰可平 (tài kě píng) - فانكومايسين (Vancomycin)
+المواد غير العضوية للحياة الحديثة (Inorganic Materials for Modern Life)
+المعادن (Metals)
+
+鐵 (Tiě) - حديد (Iron)
+銅 (Tóng) - نحاس (Copper)
+鋁 (Lǚ) - ألمنيوم (Aluminum)
+矽 (Guī) - سيليكون (Silicon)
+
+المعادن / الفلزات (Minerals)
+
+鋰 (Lǐ) - ليثيوم (Lithium)
+鈷 (Gǔ) - كوبالت (Cobalt)
+
+المواد الكيميائية (Chemicals)
+
+硫酸 (Liú suān) - حمض الكبريتيك (Sulfuric acid)
+氨 (Ān) - أمونيا (Ammonia)
+
+السيراميك والزجاج (Ceramics and Glass)
+
+二氧化矽 (Èr yǎng huà guī) - ثاني أكسيد السيليكون (Silicon dioxide)
+
+مواد غير عضوية أخرى (Other Inorganic Materials)
+
+混凝土 (Hùn níng tǔ) - خرسانة (Concrete)
+水泥 (Shuǐ ní) - أسمنت (Cement)

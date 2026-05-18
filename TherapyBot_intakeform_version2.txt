@@ -1,0 +1,79 @@
+Client Name: Maria Gonzalez
+
+Date of Birth: 03/15/1985
+
+Primary Phone: 555-123-4567
+
+Emergency Contact Name: Juan Gonzalez
+
+Emergency Contact Phone: 555-987-6543
+
+Address: 123 Elm St, Springfield, NY 10001
+
+Living Situation: Lives with husband and two children
+
+Employment Status: Teacher
+
+Education: Bachelor’s Degree
+
+Primary Care Provider: Dr. Smith
+
+Insurance Provider: HealthFirst
+
+Age: 39
+
+Ethnicity: Hispanic/Latina
+
+Presenting Problem/Symptoms: Anxiety and stress related to work-life balance
+
+Depression Level: 3
+
+Anxiety Level: 7
+
+Sleep Quality: Fair
+
+Sleep Hours: 6
+
+Appetite: Normal
+
+Weight Change: None
+
+Eating Disorder History: None
+
+Mania History: None
+
+Panic Episode History: None
+
+Hallucinations/Paranoia: None
+
+Abuse History: None
+
+Crime Victim History: None
+
+Mental Health History: No previous therapy
+
+Psychiatric Hospitalizations: None
+
+Psychiatric Medications: None
+
+Allergies: None
+
+Substance Use: No alcohol, no drugs
+
+Stressors: Work, family responsibilities
+
+Session Notes: N/A
+
+Consent Given: Yes
+
+Session Date: Today’s date
+
+Cultural Background: I am originally from Mexico and value my Hispanic heritage.
+
+Preferred Language/Customs/Beliefs: I am most comfortable speaking Spanish and appreciate when my culture is recognized.
+
+Identity Considerations: I am a Latina woman and my family is very important to me.
+
+Previous Therapy Experience: I have not had therapy before, but I want someone who understands my background.
+
+Additional Notes for Culturally Relevant Care: I would like a therapist or bot that can communicate in Spanish and understands Hispanic family values.
